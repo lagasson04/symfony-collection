@@ -3,7 +3,7 @@
 ## Install
 
 ```
-git clone git@github.com:TBoileau/symfony-collection.git
+git clone git@github.com:lagasson04/symfony-collection.git
 composer install
 yarn install
 ```
